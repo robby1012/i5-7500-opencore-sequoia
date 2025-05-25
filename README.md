@@ -1,3 +1,6 @@
+![MacOS](https://img.shields.io/badge/-MacOS-grey?logo=macos&logoColor=white&style=plastic)
+![OpenCore](https://img.shields.io/badge/-Opencore-blue?logoColor=black&style=plastic)
+
 Kabylake i5 7500 OpenCore Config
 
 ## **VERY IMPORTANT**, there is no guarantee this Config working on your System
