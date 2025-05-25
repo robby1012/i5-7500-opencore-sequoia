@@ -1,4 +1,4 @@
-Skylake i5 6500 OpenCore Config
+Kabylake i5 7500 OpenCore Config
 
 ## **VERY IMPORTANT**, there is no guarantee this Config working on your System
 
