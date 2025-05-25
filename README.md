@@ -4,7 +4,7 @@ Skylake i5 6500 OpenCore Config
 
 ## Computer Hardware
 
-* Asrock H110D4-M2
+* ECS H110M4-C43
 * Intel i5 7500
 * 16GB DDR4 2400 (SK Hynix)
 * Graphics Intel HD 630
